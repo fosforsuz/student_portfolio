@@ -1,0 +1,3 @@
+G1,G2,absences,studytime,dalc,walc,failures,freetime,goout,health,famrel,higher,internet,pstatus,schoolsup,activities,famsize
+15,14,4,2,1,2,0,3,3,4,3,yes,yes,T,no,no,GT3
+15,14,4,2,1,2,0,3,3,4,3,no,no,A,yes,yes,LT3
